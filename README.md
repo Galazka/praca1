@@ -28,6 +28,6 @@ cp rachunki.txt/ ~/temp/praca/zlecenia/zrealizowane/rachunki.txt
 cd rachunki.txt/ ~/temp/praca/zlecenia/zrealizowane
 5.
 mv rachunki.txt wykonano.txt
-6.
+6. 
 
 
